@@ -1,0 +1,189 @@
+{
+  "run_id": "2026-09-27_1320Z",
+  "started_at": "2026-09-27T13:20:33+00:00",
+  "sources": {
+    "adzuna": {
+      "status": "ok",
+      "file": "adzuna.jsonl.gz",
+      "records": 5598,
+      "api_calls": 130,
+      "unique_postings": 5598,
+      "per_term": {
+        "data analyst": {
+          "matched": 1152,
+          "fetched": 1151
+        },
+        "business analyst": {
+          "matched": 1941,
+          "fetched": 1941
+        },
+        "product analyst": {
+          "matched": 278,
+          "fetched": 278
+        },
+        "bi analyst": {
+          "matched": 75,
+          "fetched": 75
+        },
+        "business intelligence": {
+          "matched": 304,
+          "fetched": 304
+        },
+        "power bi": {
+          "matched": 257,
+          "fetched": 257
+        },
+        "reporting analyst": {
+          "matched": 355,
+          "fetched": 355
+        },
+        "mis analyst": {
+          "matched": 31,
+          "fetched": 31
+        },
+        "insights analyst": {
+          "matched": 77,
+          "fetched": 77
+        },
+        "analytics": {
+          "matched": 1699,
+          "fetched": 1699
+        }
+      },
+      "truncated_terms": [],
+      "max_days_old": null,
+      "seconds": 475.8
+    },
+    "ats": {
+      "status": "ok",
+      "file": "ats.jsonl.gz",
+      "records": 73,
+      "boards": {
+        "greenhouse/razorpaysoftwareprivatelimited": {
+          "total": 25,
+          "india": 20,
+          "kept": 1
+        },
+        "greenhouse/groww": {
+          "total": 7,
+          "india": 7,
+          "kept": 0
+        },
+        "greenhouse/zetaglobal": {
+          "total": 141,
+          "india": 37,
+          "kept": 11
+        },
+        "greenhouse/inmobi": {
+          "total": 71,
+          "india": 36,
+          "kept": 1
+        },
+        "greenhouse/druva": {
+          "total": 35,
+          "india": 12,
+          "kept": 3
+        },
+        "greenhouse/rubrik": {
+          "total": 140,
+          "india": 33,
+          "kept": 3
+        },
+        "greenhouse/stripe": {
+          "total": 701,
+          "india": 43,
+          "kept": 7
+        },
+        "greenhouse/airbnb": {
+          "total": 159,
+          "india": 8,
+          "kept": 2
+        },
+        "greenhouse/databricks": {
+          "total": 887,
+          "india": 98,
+          "kept": 10
+        },
+        "greenhouse/zscaler": {
+          "total": 380,
+          "india": 73,
+          "kept": 6
+        },
+        "greenhouse/agoda": {
+          "total": 296,
+          "india": 11,
+          "kept": 1
+        },
+        "greenhouse/figma": {
+          "total": 163,
+          "india": 1,
+          "kept": 0
+        },
+        "greenhouse/coinbase": {
+          "total": 210,
+          "india": 11,
+          "kept": 0
+        },
+        "lever/meesho": {
+          "total": 54,
+          "india": 54,
+          "kept": 5
+        },
+        "lever/cred": {
+          "total": 12,
+          "india": 12,
+          "kept": 0
+        },
+        "lever/paytm": {
+          "total": 174,
+          "india": 163,
+          "kept": 9
+        },
+        "lever/zeta": {
+          "total": 22,
+          "india": 20,
+          "kept": 1
+        },
+        "lever/mindtickle": {
+          "total": 18,
+          "india": 17,
+          "kept": 0
+        },
+        "lever/fampay": {
+          "total": 15,
+          "india": 15,
+          "kept": 1
+        },
+        "ashby/atlan": {
+          "total": 8,
+          "india": 6,
+          "kept": 1
+        },
+        "ashby/tekion": {
+          "total": 115,
+          "india": 90,
+          "kept": 9
+        },
+        "ashby/snowflake": {
+          "total": 349,
+          "india": 14,
+          "kept": 2
+        },
+        "ashby/confluent": {
+          "total": 20,
+          "india": 1,
+          "kept": 0
+        },
+        "ashby/notion": {
+          "total": 128,
+          "india": 4,
+          "kept": 0
+        }
+      },
+      "failed_boards": [],
+      "kept_postings": 73,
+      "seconds": 4.7
+    }
+  },
+  "finished_at": "2026-09-27T13:28:34+00:00"
+}

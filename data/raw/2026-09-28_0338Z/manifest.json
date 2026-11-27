@@ -1,0 +1,293 @@
+{
+  "run_id": "2026-09-28_0338Z",
+  "started_at": "2026-09-28T03:38:47+00:00",
+  "sources": {
+    "adzuna": {
+      "status": "ok",
+      "file": "adzuna.jsonl.gz",
+      "records": 5541,
+      "api_calls": 127,
+      "unique_postings": 5541,
+      "per_term": {
+        "data analyst": {
+          "matched": 1191,
+          "fetched": 1191
+        },
+        "business analyst": {
+          "matched": 1889,
+          "fetched": 1889
+        },
+        "product analyst": {
+          "matched": 271,
+          "fetched": 271
+        },
+        "bi analyst": {
+          "matched": 74,
+          "fetched": 74
+        },
+        "business intelligence": {
+          "matched": 312,
+          "fetched": 312
+        },
+        "power bi": {
+          "matched": 256,
+          "fetched": 256
+        },
+        "reporting analyst": {
+          "matched": 327,
+          "fetched": 327
+        },
+        "mis analyst": {
+          "matched": 29,
+          "fetched": 29
+        },
+        "insights analyst": {
+          "matched": 80,
+          "fetched": 80
+        },
+        "analytics": {
+          "matched": 1681,
+          "fetched": 1681
+        }
+      },
+      "truncated_terms": [],
+      "max_days_old": null,
+      "seconds": 591.4
+    },
+    "adzuna_skills": {
+      "status": "ok",
+      "file": "adzuna_skills.jsonl.gz",
+      "records": 1267,
+      "api_calls": 34,
+      "title_term": "data analyst",
+      "max_days_old": 10,
+      "skills_queried": {
+        "sql": [
+          {
+            "what_or": "sql mysql postgresql postgres"
+          }
+        ],
+        "excel": [
+          {
+            "what": "excel"
+          }
+        ],
+        "python": [
+          {
+            "what": "python"
+          }
+        ],
+        "power_bi": [
+          {
+            "what_phrase": "power bi"
+          },
+          {
+            "what": "powerbi"
+          }
+        ],
+        "tableau": [
+          {
+            "what": "tableau"
+          }
+        ],
+        "statistics": [
+          {
+            "what_or": "statistics statistical"
+          }
+        ],
+        "ab_testing": [
+          {
+            "what_phrase": "a/b testing"
+          }
+        ],
+        "machine_learning": [
+          {
+            "what_phrase": "machine learning"
+          }
+        ],
+        "etl": [
+          {
+            "what": "etl"
+          }
+        ],
+        "aws": [
+          {
+            "what": "aws"
+          }
+        ],
+        "azure": [
+          {
+            "what": "azure"
+          }
+        ],
+        "stakeholder": [
+          {
+            "what_or": "stakeholder stakeholders"
+          }
+        ],
+        "communication": [
+          {
+            "what_or": "communication communicate"
+          }
+        ],
+        "generative_ai": [
+          {
+            "what_phrase": "generative ai"
+          },
+          {
+            "what_or": "genai llm llms"
+          }
+        ]
+      },
+      "per_skill": {
+        "sql": 184,
+        "excel": 113,
+        "python": 133,
+        "power_bi": 76,
+        "tableau": 93,
+        "statistics": 104,
+        "ab_testing": 11,
+        "machine_learning": 28,
+        "etl": 52,
+        "aws": 31,
+        "azure": 45,
+        "stakeholder": 174,
+        "communication": 193,
+        "generative_ai": 30
+      },
+      "truncated_skills": [],
+      "seconds": 120.6
+    },
+    "ats": {
+      "status": "ok",
+      "file": "ats.jsonl.gz",
+      "records": 73,
+      "boards": {
+        "greenhouse/razorpaysoftwareprivatelimited": {
+          "total": 25,
+          "india": 20,
+          "kept": 1
+        },
+        "greenhouse/groww": {
+          "total": 7,
+          "india": 7,
+          "kept": 0
+        },
+        "greenhouse/zetaglobal": {
+          "total": 141,
+          "india": 37,
+          "kept": 11
+        },
+        "greenhouse/inmobi": {
+          "total": 71,
+          "india": 36,
+          "kept": 1
+        },
+        "greenhouse/druva": {
+          "total": 35,
+          "india": 12,
+          "kept": 3
+        },
+        "greenhouse/rubrik": {
+          "total": 140,
+          "india": 33,
+          "kept": 3
+        },
+        "greenhouse/stripe": {
+          "total": 699,
+          "india": 43,
+          "kept": 7
+        },
+        "greenhouse/airbnb": {
+          "total": 159,
+          "india": 8,
+          "kept": 2
+        },
+        "greenhouse/databricks": {
+          "total": 886,
+          "india": 98,
+          "kept": 10
+        },
+        "greenhouse/zscaler": {
+          "total": 381,
+          "india": 74,
+          "kept": 6
+        },
+        "greenhouse/agoda": {
+          "total": 294,
+          "india": 11,
+          "kept": 1
+        },
+        "greenhouse/figma": {
+          "total": 163,
+          "india": 1,
+          "kept": 0
+        },
+        "greenhouse/coinbase": {
+          "total": 210,
+          "india": 11,
+          "kept": 0
+        },
+        "lever/meesho": {
+          "total": 54,
+          "india": 54,
+          "kept": 5
+        },
+        "lever/cred": {
+          "total": 12,
+          "india": 12,
+          "kept": 0
+        },
+        "lever/paytm": {
+          "total": 174,
+          "india": 163,
+          "kept": 9
+        },
+        "lever/zeta": {
+          "total": 22,
+          "india": 20,
+          "kept": 1
+        },
+        "lever/mindtickle": {
+          "total": 18,
+          "india": 17,
+          "kept": 0
+        },
+        "lever/fampay": {
+          "total": 15,
+          "india": 15,
+          "kept": 1
+        },
+        "ashby/atlan": {
+          "total": 8,
+          "india": 6,
+          "kept": 1
+        },
+        "ashby/tekion": {
+          "total": 115,
+          "india": 90,
+          "kept": 9
+        },
+        "ashby/snowflake": {
+          "total": 349,
+          "india": 14,
+          "kept": 2
+        },
+        "ashby/confluent": {
+          "total": 20,
+          "india": 1,
+          "kept": 0
+        },
+        "ashby/notion": {
+          "total": 128,
+          "india": 4,
+          "kept": 0
+        }
+      },
+      "failed_boards": [],
+      "kept_postings": 73,
+      "seconds": 4.2
+    }
+  },
+  "finished_at": "2026-09-28T03:50:44+00:00"
+}

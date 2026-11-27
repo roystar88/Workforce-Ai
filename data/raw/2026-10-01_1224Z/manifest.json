@@ -1,0 +1,149 @@
+{
+  "run_id": "2026-10-01_1224Z",
+  "started_at": "2026-10-01T12:24:30+00:00",
+  "sources": {
+    "adzuna_skills": {
+      "status": "ok",
+      "file": "adzuna_skills.jsonl.gz",
+      "records": 1300,
+      "api_calls": 61,
+      "title_terms": [
+        "reporting analyst",
+        "bi analyst",
+        "mis analyst"
+      ],
+      "max_days_old": null,
+      "skills_queried": {
+        "sql": [
+          {
+            "what_or": "sql mysql postgresql postgres"
+          }
+        ],
+        "excel": [
+          {
+            "what": "excel"
+          }
+        ],
+        "python": [
+          {
+            "what": "python"
+          }
+        ],
+        "power_bi": [
+          {
+            "what_phrase": "power bi"
+          },
+          {
+            "what": "powerbi"
+          }
+        ],
+        "tableau": [
+          {
+            "what": "tableau"
+          }
+        ],
+        "statistics": [
+          {
+            "what_or": "statistics statistical"
+          }
+        ],
+        "ab_testing": [
+          {
+            "what_phrase": "a/b testing"
+          }
+        ],
+        "machine_learning": [
+          {
+            "what_phrase": "machine learning"
+          }
+        ],
+        "etl": [
+          {
+            "what": "etl"
+          }
+        ],
+        "aws": [
+          {
+            "what": "aws"
+          }
+        ],
+        "azure": [
+          {
+            "what": "azure"
+          }
+        ],
+        "stakeholder": [
+          {
+            "what_or": "stakeholder stakeholders"
+          }
+        ],
+        "communication": [
+          {
+            "what_or": "communication communicate"
+          }
+        ],
+        "generative_ai": [
+          {
+            "what_phrase": "generative ai"
+          },
+          {
+            "what_or": "genai llm llms"
+          }
+        ]
+      },
+      "per_skill": {
+        "reporting analyst": {
+          "sql": 74,
+          "excel": 137,
+          "python": 45,
+          "power_bi": 35,
+          "tableau": 58,
+          "statistics": 37,
+          "ab_testing": 1,
+          "machine_learning": 2,
+          "etl": 32,
+          "aws": 15,
+          "azure": 15,
+          "stakeholder": 153,
+          "communication": 183,
+          "generative_ai": 3
+        },
+        "bi analyst": {
+          "sql": 60,
+          "excel": 31,
+          "python": 33,
+          "power_bi": 23,
+          "tableau": 46,
+          "statistics": 37,
+          "ab_testing": 0,
+          "machine_learning": 0,
+          "etl": 36,
+          "aws": 12,
+          "azure": 27,
+          "stakeholder": 57,
+          "communication": 54,
+          "generative_ai": 5
+        },
+        "mis analyst": {
+          "sql": 12,
+          "excel": 25,
+          "python": 2,
+          "power_bi": 6,
+          "tableau": 4,
+          "statistics": 1,
+          "ab_testing": 0,
+          "machine_learning": 0,
+          "etl": 2,
+          "aws": 0,
+          "azure": 0,
+          "stakeholder": 15,
+          "communication": 22,
+          "generative_ai": 0
+        }
+      },
+      "truncated_skills": [],
+      "seconds": 214.8
+    }
+  },
+  "finished_at": "2026-10-01T12:28:05+00:00"
+}

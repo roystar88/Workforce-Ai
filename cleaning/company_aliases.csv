@@ -1,0 +1,12 @@
+pattern,company,note
+^(ADCI|ASSPL)\b,Amazon,Amazon's Indian legal entities (Amazon Development Centre India / Amazon Seller Services)
+^Amazon\b,Amazon,"Amazon Dev Center, Amazon Pay, Amazon Advertising, Amazon FinOps..."
+^AWS India\b,Amazon,Amazon Web Services India
+^Prime Video & Amazon MGM Studios$,Amazon,
+^Razorpay\b,Razorpay,
+^Rubrik\b,Rubrik,"company board shows as ""Rubrik Job Board"""
+^atlan$,Atlan,company-board slug
+^fampay$,FamPay,company-board slug
+^zeta$,Zeta,"Indian fintech (zeta.tech), NOT Zeta Global"
+^(MNC|Financial Services|Top IT Services and Digital Marketing Outsourcing Company)$,Anonymous,employer hidden by the job board
+(?i)^inmobi$,InMobi,spelling variants InMobi / Inmobi

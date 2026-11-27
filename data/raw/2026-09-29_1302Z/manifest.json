@@ -1,0 +1,76 @@
+{
+  "run_id": "2026-09-29_1302Z",
+  "started_at": "2026-09-29T13:02:14+00:00",
+  "sources": {
+    "adzuna_skills": {
+      "status": "ok",
+      "file": "adzuna_skills.jsonl.gz",
+      "records": 1965,
+      "api_calls": 45,
+      "title_terms": [
+        "data analyst"
+      ],
+      "max_days_old": null,
+      "skills_queried": {
+        "mode_remote": [
+          {
+            "what_or": "remote wfh"
+          },
+          {
+            "what_phrase": "work from home"
+          }
+        ],
+        "mode_hybrid": [
+          {
+            "what": "hybrid"
+          }
+        ],
+        "edu_degree": [
+          {
+            "what_or": "bachelor bachelors degree graduate graduation btech"
+          }
+        ],
+        "edu_masters": [
+          {
+            "what_or": "masters mba postgraduate"
+          }
+        ],
+        "ai_chatgpt": [
+          {
+            "what_or": "chatgpt openai"
+          }
+        ],
+        "ai_copilot": [
+          {
+            "what": "copilot"
+          }
+        ],
+        "ai_automation": [
+          {
+            "what": "automation"
+          }
+        ],
+        "ai_general": [
+          {
+            "what_phrase": "artificial intelligence"
+          }
+        ]
+      },
+      "per_skill": {
+        "data analyst": {
+          "mode_remote": 164,
+          "mode_hybrid": 165,
+          "edu_degree": 688,
+          "edu_masters": 355,
+          "ai_chatgpt": 23,
+          "ai_copilot": 42,
+          "ai_automation": 489,
+          "ai_general": 39
+        }
+      },
+      "truncated_skills": [],
+      "seconds": 200.5
+    }
+  },
+  "finished_at": "2026-09-29T13:05:34+00:00"
+}

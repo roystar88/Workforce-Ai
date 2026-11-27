@@ -1,0 +1,74 @@
+company,company_type,confidence,note
+Amazon,Product / tech,high,
+Accenture,IT & analytics services,high,
+Genpact,IT & analytics services,high,
+Amgen,Pharma & healthcare,high,
+EXL,IT & analytics services,high,
+PricewaterhouseCoopers,Consulting,high,Big 4
+Citigroup,Bank & financial services,high,
+UPS,Other global company,high,logistics
+JPMorganChase,Bank & financial services,high,
+Acura Solution,Staffing / recruiter,low,PLEASE CHECK: looks like a recruiter
+People First Consultants,Staffing / recruiter,high,
+Deutsche Bank,Bank & financial services,high,
+Infosys Limited,IT & analytics services,high,
+Capco,Consulting,high,financial-services consultancy
+Barclays,Bank & financial services,high,
+"NTT America, Inc.",IT & analytics services,high,NTT DATA
+Kyndryl,IT & analytics services,high,
+BSR & Co,Consulting,high,KPMG member firm in India (Big 4)
+Unison Group,Staffing / recruiter,low,PLEASE CHECK
+Roche,Pharma & healthcare,high,
+Bristol Myers Squibb,Pharma & healthcare,high,
+ABB,Other global company,high,industrial
+Weekday AI,Staffing / recruiter,high,recruiting platform
+Sanofi,Pharma & healthcare,high,
+Qrata,Staffing / recruiter,high,
+Wells Fargo Bank,Bank & financial services,high,
+Thermo Fisher Scientific,Pharma & healthcare,high,
+TE Connectivity,Other global company,high,industrial
+Merito,Staffing / recruiter,low,PLEASE CHECK
+Wissen Technology,IT & analytics services,high,
+State Street,Bank & financial services,high,
+Photon Group,IT & analytics services,high,
+Mitsubishi UFJ Financial Group,Bank & financial services,high,
+Milestone Online Technology,Staffing / recruiter,low,PLEASE CHECK: unknown company
+TIAA,Bank & financial services,high,
+Topcoder,Staffing / recruiter,low,PLEASE CHECK: freelance talent platform
+Jobgether,Staffing / recruiter,high,job platform
+American Express,Bank & financial services,high,
+Unnati,Staffing / recruiter,low,PLEASE CHECK
+Paytm,Product / tech,high,
+Cigna Group,Pharma & healthcare,high,health insurer
+Talent Pro,Staffing / recruiter,high,
+Mantras2Success,Staffing / recruiter,high,
+Google,Product / tech,high,
+Capgemini,IT & analytics services,high,
+CGI,IT & analytics services,high,
+Zeta Global,Product / tech,high,US marketing tech
+RTX,Other global company,high,aerospace
+Zscaler,Product / tech,high,
+Trigent Software Private Limited,IT & analytics services,high,
+Multi Recruit,Staffing / recruiter,high,
+MiniMed,Pharma & healthcare,high,medical devices
+Jobdost,Staffing / recruiter,high,
+2028 Takeda Innovations India,Pharma & healthcare,high,Takeda
+Tekion,Product / tech,high,
+Morgan Stanley,Bank & financial services,high,
+MSD,Pharma & healthcare,high,
+Invesco,Bank & financial services,high,
+Egon Zehnder,Consulting,low,PLEASE CHECK: leadership/executive-search consultancy
+DXC Technology,IT & analytics services,high,
+Razorpay,Product / tech,high,company board
+Meesho,Product / tech,high,company board
+Zeta,Product / tech,high,"Indian fintech, company board"
+FamPay,Product / tech,high,company board
+Atlan,Product / tech,high,company board
+Agoda,Product / tech,high,company board
+Airbnb,Product / tech,high,company board
+Databricks,Product / tech,high,company board
+Druva,Product / tech,high,company board
+InMobi,Product / tech,high,company board
+Rubrik,Product / tech,high,company board
+Stripe,Product / tech,high,company board
+Snowflake,Product / tech,high,company board

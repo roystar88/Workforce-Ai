@@ -1,0 +1,115 @@
+{
+  "run_id": "2026-09-29_1210Z",
+  "started_at": "2026-09-29T12:10:53+00:00",
+  "sources": {
+    "adzuna_skills": {
+      "status": "ok",
+      "file": "adzuna_skills.jsonl.gz",
+      "records": 5297,
+      "api_calls": 114,
+      "title_terms": [
+        "data analyst"
+      ],
+      "max_days_old": null,
+      "skills_queried": {
+        "sql": [
+          {
+            "what_or": "sql mysql postgresql postgres"
+          }
+        ],
+        "excel": [
+          {
+            "what": "excel"
+          }
+        ],
+        "python": [
+          {
+            "what": "python"
+          }
+        ],
+        "power_bi": [
+          {
+            "what_phrase": "power bi"
+          },
+          {
+            "what": "powerbi"
+          }
+        ],
+        "tableau": [
+          {
+            "what": "tableau"
+          }
+        ],
+        "statistics": [
+          {
+            "what_or": "statistics statistical"
+          }
+        ],
+        "ab_testing": [
+          {
+            "what_phrase": "a/b testing"
+          }
+        ],
+        "machine_learning": [
+          {
+            "what_phrase": "machine learning"
+          }
+        ],
+        "etl": [
+          {
+            "what": "etl"
+          }
+        ],
+        "aws": [
+          {
+            "what": "aws"
+          }
+        ],
+        "azure": [
+          {
+            "what": "azure"
+          }
+        ],
+        "stakeholder": [
+          {
+            "what_or": "stakeholder stakeholders"
+          }
+        ],
+        "communication": [
+          {
+            "what_or": "communication communicate"
+          }
+        ],
+        "generative_ai": [
+          {
+            "what_phrase": "generative ai"
+          },
+          {
+            "what_or": "genai llm llms"
+          }
+        ]
+      },
+      "per_skill": {
+        "data analyst": {
+          "sql": 792,
+          "excel": 510,
+          "python": 547,
+          "power_bi": 323,
+          "tableau": 376,
+          "statistics": 436,
+          "ab_testing": 34,
+          "machine_learning": 115,
+          "etl": 225,
+          "aws": 164,
+          "azure": 185,
+          "stakeholder": 680,
+          "communication": 817,
+          "generative_ai": 93
+        }
+      },
+      "truncated_skills": [],
+      "seconds": 480.5
+    }
+  },
+  "finished_at": "2026-09-29T12:18:53+00:00"
+}
