@@ -1,4 +1,4 @@
-# WorkForce AI: Data Analyst Job Market Intelligence (India)
+# WorkForce AI: Data Analyst Job Market Intelligence (India)    
 
 **Which skills actually matter for a data analyst job in India, and which ones pay more?**
 We're answering that with real data: thousands of live job postings, collected
